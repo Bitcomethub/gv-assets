@@ -1,0 +1,23 @@
+1
+00:00:00,100 --> 00:00:03,390
+Maç başlamadan saatlerce
+analiz yapıyorsun.
+
+2
+00:00:03,390 --> 00:00:05,320
+İlk on birler
+son dakikaya kadar
+
+3
+00:00:05,320 --> 00:00:07,200
+belli olmuyor.
+
+4
+00:00:07,200 --> 00:00:10,450
+Geçmiş performansa bakıp
+tahmin yürütüyorsun...
+
+5
+00:00:10,450 --> 00:00:14,690
+ama maç başladığı an
+her şey değişiyor.

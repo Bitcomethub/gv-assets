@@ -1,0 +1,29 @@
+1
+00:00:00,110 --> 00:00:02,730
+GoalVibe reads
+the match live.
+
+2
+00:00:02,730 --> 00:00:06,830
+Shots, dangerous attacks,
+expected goals, pressure:
+
+3
+00:00:06,830 --> 00:00:11,040
+it refreshes the live
+data every minute.
+
+4
+00:00:11,040 --> 00:00:13,000
+Most of the weight
+comes from what is
+
+5
+00:00:13,000 --> 00:00:15,240
+happening in the match
+right now;
+
+6
+00:00:15,240 --> 00:00:19,260
+league and team history
+fill in the rest.
